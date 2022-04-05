@@ -1,0 +1,10 @@
+# Virtual Env
+venv/
+weblog/__pycache__/
+
+posts/__pycache__/
+
+
+# Migrations
+posts/migrations/
+
